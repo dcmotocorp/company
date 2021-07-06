@@ -1,0 +1,14 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+worker2/__init__.py
+worker2/models.py
+worker2/views.py
+worker2.egg-info/PKG-INFO
+worker2.egg-info/SOURCES.txt
+worker2.egg-info/dependency_links.txt
+worker2.egg-info/requires.txt
+worker2.egg-info/top_level.txt
+worker2/__pycache__/__init__.cpython-39.pyc
+worker2/__pycache__/views.cpython-39.pyc
